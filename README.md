@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante da Ufla, de Sistemas de Informação e sou apaixonado por tecnologia
+    Sou estudante de Sistemas de Informação e sou apaixonado por tecnologia
       <img
            width="10%" 
            align="center" 
