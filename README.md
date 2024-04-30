@@ -34,7 +34,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="Python" height="30" width="25" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg](https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg)">
+  <img align="center" alt="Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg">
   
 </div><br>
 
