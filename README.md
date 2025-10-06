@@ -1,18 +1,23 @@
 # 👋 Olá, eu sou Tiago
 
-💻 Desenvolvedor Full Stack | 🎓 Sistemas de Informação @ UFLA  
-🚀 Apaixonado por tecnologia, IA, e inovação com propósito  
+💻 Desenvolvedor Full Stack na **Levty**  
+🌱 Participante de projetos de extensão como **Horta Fácil**  
+🎮 Desenvolvedor de jogos no **NEJ/UFLA**  
+🎓 Estudante de **Sistemas de Informação** na **UFLA**
 
-### 🌱 Atualmente
-- Trabalhando com **Java, Python e Spring Boot**
-- Explorando **Machine Learning e Sistemas Distribuídos**
-- Desenvolvendo projetos que unem **tecnologia e cultura popular**
+---
+
+### 🚀 Interesses
+- Desenvolvimento **Web** e **Mobile**
+- **Inteligência Artificial** e **Machine Learning**
+- **Jogos**, **automação** e **cultura digital**
+
+---
 
 ### 🛠️ Tecnologias
-`Python` • `Java` • `Django` • `Spring Boot` • `JavaScript` • `HTML/CSS`  
+`Python` • `Java` • `Spring Boot` • `Django` • `JavaScript` • `HTML/CSS`  
 `AWS` • `Docker` • `PostgreSQL` • `Git/GitHub`
 
 ---
 
-> “Código é poesia em linguagem de máquina.” ✨
-
+> “Tecnologia com propósito é aquela que transforma pessoas.” ⚡
