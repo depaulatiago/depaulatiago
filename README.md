@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Tecnologias
-`Python` • `Java` • `Spring Boot` • `Django` • `JavaScript` • `HTML/CSS`  
+`Python` • `Java` • `Spring Boot` • `Django` • `React` • `JavaScript` • `HTML/CSS`  
 `AWS` • `Docker` • `PostgreSQL` • `Git/GitHub`
 
 ---
